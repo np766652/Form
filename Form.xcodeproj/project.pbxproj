@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E47813125CE6D36005D68C4 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47813025CE6D36005D68C4 /* DataModel.swift */; };
+		7E47813625CE9F75005D68C4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E47813525CE9F75005D68C4 /* SecondViewController.swift */; };
 		7ECF94F425CD5E44008F9F9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECF94F325CD5E44008F9F9E /* AppDelegate.swift */; };
 		7ECF94F625CD5E44008F9F9E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECF94F525CD5E44008F9F9E /* SceneDelegate.swift */; };
 		7ECF94F825CD5E44008F9F9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECF94F725CD5E44008F9F9E /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7E47813025CE6D36005D68C4 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		7E47813525CE9F75005D68C4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7ECF94F025CD5E44008F9F9E /* Form.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Form.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ECF94F325CD5E44008F9F9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7ECF94F525CD5E44008F9F9E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				7ECF94FC25CD5E45008F9F9E /* Assets.xcassets */,
 				7ECF94FE25CD5E45008F9F9E /* LaunchScreen.storyboard */,
 				7ECF950125CD5E45008F9F9E /* Info.plist */,
+				7E47813025CE6D36005D68C4 /* DataModel.swift */,
+				7E47813525CE9F75005D68C4 /* SecondViewController.swift */,
 			);
 			path = Form;
 			sourceTree = "<group>";
@@ -259,7 +265,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7ECF94F825CD5E44008F9F9E /* ViewController.swift in Sources */,
+				7E47813125CE6D36005D68C4 /* DataModel.swift in Sources */,
 				7ECF94F425CD5E44008F9F9E /* AppDelegate.swift in Sources */,
+				7E47813625CE9F75005D68C4 /* SecondViewController.swift in Sources */,
 				7ECF94F625CD5E44008F9F9E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
